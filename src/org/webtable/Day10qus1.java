@@ -41,6 +41,10 @@ if(!windowHandle.equals(v)) {
 	WebElement txtprice = d1.findElement(By.xpath("(//span[text()='$409.00'])"));
 	   String text=txtprice.getText();
 	   System.out.println("Price is "+text);
+	   System.out.println("Price is "+text);
+	   System.out.println("Price is "+text);
+	   System.out.println("Price is "+text);
+	   System.out.println("Price is "+text);
 
    }
    
